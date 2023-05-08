@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:reedeem_page/reedem_coins.dart';
+import 'package:reedeem_page/pages/reedem_coins.dart';
 
 class ReedemPage extends StatefulWidget {
   const ReedemPage({super.key});

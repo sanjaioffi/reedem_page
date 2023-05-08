@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:reedeem_page/reedem_page.dart';
+import 'package:reedeem_page/pages/reedem_page.dart';
 
 void main() {
   runApp(const MyApp());

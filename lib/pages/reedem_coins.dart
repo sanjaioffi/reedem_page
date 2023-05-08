@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:reedeem_page/widgets/coupn_grid.dart';
-import 'widgets/horizontal_chips.dart';
+import '../widgets/horizontal_chips.dart';
 
 // ignore: must_be_immutable
 class ReedemCoins extends StatefulWidget {
