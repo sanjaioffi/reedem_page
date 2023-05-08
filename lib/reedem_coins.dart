@@ -21,27 +21,27 @@ class ReedemCoins extends StatefulWidget {
   ];
 
   final vouchers = [
-    ['Flat 250 Off On Myntra', 450, 'assets/images/myntra.jpg'],
+    ['Flat ₹250 Off On Myntra', 450, 'assets/images/myntra.jpg'],
     [
       'Buy 500g almonds and get 500g walnuts FREE',
       30,
       'assets/images/almond.jpg'
     ],
-    ['Flat 200 Off On Noise', 450, 'assets/images/tv.jpg'],
+    ['Flat ₹200 Off On Noise', 450, 'assets/images/tv.jpg'],
     [
-      'Amazon Fires TV Stick 3rd Gen at 2799 worth 4999',
+      'Amazon Fires TV Stick 3rd Gen at ₹2799 worth ₹4999',
       450,
       'assets/images/myntra.jpg'
     ],
-    ['Flat 250 Off On Myntra', 450, 'assets/images/myntra.jpg'],
+    ['Flat ₹250 Off On Myntra', 450, 'assets/images/myntra.jpg'],
     [
       'Buy 500g almonds and get 500g walnuts FREE',
       30,
       'assets/images/myntra.jpg'
     ],
-    ['Flat 200 Off On Noise', 450, 'assets/images/almond.jpg'],
+    ['Flat ₹200 Off On Noise', 450, 'assets/images/almond.jpg'],
     [
-      'Amazon Fires TV Stick 3rd Gen at 2799 worth 4999',
+      'Amazon Fires TV Stick 3rd Gen at ₹2799 worth ₹4999',
       450,
       'assets/images/tv.jpg'
     ],
